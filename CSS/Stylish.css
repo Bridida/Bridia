@@ -1,0 +1,31 @@
+.blocc {
+color: #ffffff;
+font-family: 'Gothic A1', sans-serif;
+} 
+body {
+    background: #0b1210;
+}
+.header {
+background-color: #08231f;
+}
+.video {
+    background-color: #042520;
+}
+
+h1 {
+    font-size: 60px;
+    letter-spacing: 2px;
+}
+.button {
+    width: 100px;
+    height: 25px;
+    background-color: #1f8c58;
+    color: #ffffff;
+    border: 1px solid #1f8c58;
+    border-radius: 15px;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+.container {
+    background-color: #1f8c58;
+}
